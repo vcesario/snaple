@@ -1,0 +1,4 @@
+[x] grab card data
+[ ] find host. (check firebase)
+[ ] build app
+[ ] publish

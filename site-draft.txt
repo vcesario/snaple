@@ -1,0 +1,26 @@
+SNAPLE (Website Sketch)
+
+* Website Logo
+
+* "What is this? Also, Rules." in the corner. Popup says:
+    This is SNAPLE, a guessing game inspired by Wordle, Cardle, and based on hit mobile game Marvel Snap.
+    Try to guess which card is hidden by entering card names.
+    When you enter a card, the game replies with that card's energy value, power value, and power type.
+    Their colors will show up red when wrong, and green when correct. Check arrows to see if correct numbers should be lower or higher.
+    You have X tries. Have fun.
+
+* Card image with a ?. It changes to the correct card image after you answer it correctly, or fail.
+
+* Input field. Shows preview of card name as you write.
+
+* List of tries, with answer meter
+
+* "Another one!" button. Shows up after you answer it correctly, or fail.
+
+Last updated on XX/XX/XX.
+If you wish to help in maintaining this, you can [buy me a coffee].
+
+Created by [@vcesauron].
+[GitHub]
+
+SNAPLE is only a fan project, and is not affiliated with Marvel, nor Second Dinner.

@@ -1,4 +1,5 @@
 [x] grab card data
-[ ] find host. (check firebase)
+[x] find host: 000webhost
+[ ] download php and filezilla
 [ ] build app
 [ ] publish

@@ -1,5 +1,22 @@
 [x] grab card data
 [x] find host: 000webhost
-[ ] download php and filezilla
+[x] download php
+[x] publish
+[ ] download filezilla
 [ ] build app
-[ ] publish
+    [ ] dummy logo
+    [x] dummy mystery card back
+    [ ] entering card names adds dummy element to table
+    [ ] fetch correct element from db before adding to table
+    [ ] feedback when can't find element in db
+    [ ] pick random answer from db based on seed
+    [ ] feedback when guessed correctly
+    [ ] stop game and show restart button when guessed correctly
+    [ ] stop game and show restart button when guessed X times wrong
+    [ ] clear everything when restart pressed
+    [ ] pick new card based on seed when restart pressed
+    [ ] save progress on browser cookies
+    [ ] settle on name, logo and color palette
+    [ ] correct footer placement
+    [ ] fix links
+    [ ] protect source to stop cheaters
